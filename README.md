@@ -5,3 +5,8 @@ Latihan asas git dan GITHUB Minggu 1
 Name : Kyo
 Kelas : 2DKB
 Objektif : Mempelajari repository 
+
+## Kemahiran
+Python
+Github
+Komputer virsion
